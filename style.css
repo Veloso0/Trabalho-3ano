@@ -1,14 +1,20 @@
 @charset "UTF-8";
 body
 {
-    background-color: rgb(214, 178, 235);
     color: black;
     font-size: 12pts;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; 
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(156,17,182,1) 17%, rgba(0,212,255,1) 100%);
+    text-align: center;
 }
+
 h1
 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: rgb(255, 255, 255);
+text-align: justify;
+
 }
 header {
     display: flex;
@@ -23,4 +29,10 @@ header {
     width: 200px;
     display: flex;
     justify-content: space-between;
-  }
+  }    
+  p
+  { color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pts;
+    }
+
