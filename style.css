@@ -23,9 +23,15 @@ header {
     justify-content: space-between;
   }    
   .zé
-  { color: rgb(100, 13, 150);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt
+  { color: rgb(255, 0, 0);
+    font-family: Arial;
+    font-size: 16pt
+    }
+    .maria
+    { color: rgb(38, 0, 255);
+      font-family:Verdana;
+      font-size: 20pt
+
     }
     #maria
     { color: rgb(133, 5, 5);
