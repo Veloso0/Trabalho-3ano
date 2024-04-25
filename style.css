@@ -8,14 +8,6 @@ body
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(156,17,182,1) 17%, rgba(0,212,255,1) 100%);
     text-align: center;
 }
-
-h1
-{
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: rgb(255, 255, 255);
-text-align: justify;
-
-}
 header {
     display: flex;
     flex-direction: row;
@@ -30,9 +22,22 @@ header {
     display: flex;
     justify-content: space-between;
   }    
-  p
-  { color: black;
+  .zé
+  { color: rgb(100, 13, 150);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pts;
+    font-size: 20pt
     }
+    #maria
+    { color: rgb(133, 5, 5);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 25pt;
+    }
+    #m
+    {
+      color: rgb(224, 2, 2);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20pt;
+    }
+    
+
 
